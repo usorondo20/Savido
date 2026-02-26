@@ -4,5 +4,5 @@ password = prompt(
   'APPLY'
 );
 if (password != 'APPLY') {
-  location.href = 'https://www.mmaiwat.site/iec-jobs-za';
+  location.href = 'https://www.ufaokpo.site/iec-jobs-za';
 }
